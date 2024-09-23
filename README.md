@@ -1,7 +1,7 @@
 
 ## Hi I'm Irfan <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm skilled ReactJS web developer with 1.5 years of experience. I've honed my expertise through freelancing on platforms like [Fiverr](https://www.fiverr.com/users/cooldued123) & Upwork, accumulating 80+ reviews with an outstanding 4.9/5 rating. Specializing in crafting interactive and efficient user interfaces, I'm enthusiastic about turning ideas into impactful digital solutions. Let's collaborate and bring your projects to life! 🚀
+I'm skilled ReactJS web developer with 2.5 years of experience. I've honed my expertise through freelancing on platforms like [Fiverr](https://www.fiverr.com/users/cooldued123) & Upwork, accumulating 80+ reviews with an outstanding 4.9/5 rating. Specializing in crafting interactive and efficient user interfaces, I'm enthusiastic about turning ideas into impactful digital solutions. Let's collaborate and bring your projects to life! 🚀
 
 :mailbox: Reach me out!
 
