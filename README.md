@@ -25,7 +25,6 @@ I'm skilled ReactJS web developer with 2.5 years of experience. I've honed my ex
 
 ### Mini-Task Am Proud of:
 - (2020) PathFinder with A* and Dijkstra Algo Project: <img align="" alt="React" width="26px" src="https://img.icons8.com/nolan/64/visual-studio-code-2019.png" /> [PathFindCode]
-- Valentine Mini Code Clip: <img align="" alt="React" width="26px" src="https://img.icons8.com/color/48/000000/valentine-wings--v2.png" /> [ValentineCode]
 
 <br />
 
